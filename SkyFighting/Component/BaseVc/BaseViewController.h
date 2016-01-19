@@ -2,8 +2,8 @@
 //  BaseViewController.h
 //  RunMan-User
 //
-//  Created by 孙昕 on 15/5/19.
-//  Copyright (c) 2015年 孙昕. All rights reserved.
+//  Created by lxx on 15/5/19.
+//  Copyright (c) 2015年 lxx. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

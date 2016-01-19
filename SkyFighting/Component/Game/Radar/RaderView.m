@@ -2,8 +2,8 @@
 //  RaderView.m
 //  testCamera
 //
-//  Created by 孙昕 on 15/12/22.
-//  Copyright © 2015年 孙昕. All rights reserved.
+//  Created by lxx on 15/12/22.
+//  Copyright © 2015年 lxx. All rights reserved.
 //
 
 #import "RaderView.h"
